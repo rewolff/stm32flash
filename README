@@ -1,0 +1,23 @@
+
+
+This was downloaded from sourceforge around june 10th 2016. 
+
+Currently sourceforge is "down" which would make this project unavailable
+for download... (I would've downloaded a fresh copy but can't). 
+
+So... Here it is a copy of stm32flash. 
+
+With stm32flash you can flash an STM32 that has been booted into 
+"boot loader mode".  
+
+All STM32 CPUs have "system memory" that contains a bootloader. 
+The bootloader can load the flash over a serial connection for example
+using this program. 
+
+The bootloader often also supports I2C, SPI and USB  on cpus that 
+have it. 
+
+
+-- REW
+
+
